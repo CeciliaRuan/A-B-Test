@@ -1,0 +1,26 @@
+Introduction:
+Html:
+Structure of a Website
+For A/B testing:
+  Understand Structure;Add extra content
+CSS:
+  Styling of a Website
+For A/B testing:
+  Make style changes
+
+Javascript：
+Make the website interactive
+  The biggest difference between building websites and changing websites
+For A/B testing:
+  Make a lot of changes
+  Data tracking
+
+Resources:
+HTML:https://www.w3schools.com/
+Javascript:https://jquery.com/
+https://developer.mozilla.org/en-US/
+
+Tools:
+CSS&JS Section:Google Chrome;Color picker(Chrome extension);Testing tool
+Data Tracking Section:Google Analytics;Hotjar
+Quality Assurance:Event Tracking Tracker(Chrome extension);Edit This Cookie(Chrome extension)
